@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projetos/Unreal/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset",
+				"D:/Projetos/Unreal/MyProject/Content/Test.umap"
+			]
+		}
+	]
+}
